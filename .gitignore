@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments (if you ever use one)
+venv/
+.env/
+
+# Python cache files (if you ever run tools or scripts)
+__pycache__/
+*.py[cod]
+
+# Build artifacts (if you use MkDocs or similar in the future)
+site/
+
+# Backup/editor junk
+*.swp
+*~
