@@ -5,8 +5,8 @@ Welcome to the documentation hub for the AMOCcommunity GitHub organization.
 ## 📘 Contents
 
 - [Overview](docs/overview.md)
-- [Observing Arrays](docs/arrays.md)
-- [Tools](docs/overview.md)
+- [AMOC observing arrays](docs/arrays.md)
+- [Tools](docs/tools.md)
 - [Data Access](docs/data_access.md)
 
 
