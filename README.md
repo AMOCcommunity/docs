@@ -1,6 +1,10 @@
-# amoc-docs
+# AMOCcommunity Documentation
 
-This repository contains documentation for the AMOCcommunity GitHub organization.
+Welcome to the documentation hub for the AMOCcommunity GitHub organization.
 
-📚 **Start reading here:**  
-👉 [docs/index.md](docs/index.md)
+## 📘 Contents
+
+- [Overview](docs/overview.md)
+- [Data Access](docs/data_access.md)
+- [Contributing Guidelines](docs/contributing.md)
+- [Observing Arrays](docs/arrays/index.md)
