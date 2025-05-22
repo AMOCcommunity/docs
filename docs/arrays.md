@@ -2,6 +2,9 @@
 
 This page provides links to project websites, data access portals, and key methodology papers for AMOC observing arrays and related programs, listed approximately from north to south.
 
+Note that more complete information is available at the OceanSITES website ([OceanSITES TMA (Time-series Mooring Array) Index](https://www.ocean-ops.org/oceansites/tma/index.html)), however, this information has become out-of-date.  We do not attempt to reproduce that here, but only provide updated links to project websites and data download sites in a user-maintainable format.
+
+
 ---
 
 ## 🌐 Project Websites and Data Portals
