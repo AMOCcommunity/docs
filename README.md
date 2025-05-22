@@ -8,3 +8,4 @@ Welcome to the documentation hub for the AMOCcommunity GitHub organization.
 - [Data Access](docs/data_access.md)
 - [Contributing Guidelines](docs/contributing.md)
 - [Observing Arrays](docs/arrays/index.md)
+- [Links](docs/links.md)
